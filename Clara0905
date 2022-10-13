@@ -1,0 +1,62 @@
+<div class="fun">
+  <header>
+    <!--<p class="p1">Main./index.hmtl</p>-->
+    <!--<p class="p2">About</p>-->
+    <!--<p class="p3"> Contact</p>-->
+
+    <a class="Links" href="">
+    Main
+    </a>
+
+    <a class="Alvin" href="">
+     About
+    </a>
+
+    <a class="Simon" href="">
+     Contact
+    </a>
+
+  </header>
+</div>
+
+<a class="cool" href="place holder"> </a>
+<main>
+  <p class="joy">Que es la Musica?</p>
+  <a class="string"<p>Que consiste en conseguir efectos estéticos a través de la manipulación de sonidos vocales o instrumentales, conforme a estándares culturales de ritmo, armonía y melodía.La música es una de las mayores formas de expresión artística desde tiempos ancestrales. Además constituye el sostén de una gigantesca industria global, ya que en la cultura tienen cabida muy distintos tipos de música, empleados con fines recreativos, ceremoniales, publicitarios o de distinta naturaleza.Existen muchas y diversas maneras de producir música, algunas muy tradicionales como una orquesta clásica, y otras más contemporáneas como una banda de rock.
+    Se estima que la música cuenta con gran importancia para el ser humano ya que le permite expresar miedos, alegrías, sentimientos muy profundos de diverso tipo. La música permite canalizar esos sentimientos y hacer que la persona aliviane sus penas o haga crecer su alegría dependiendo del caso. La música es una manera que tiene el ser humano para expresarse y representar a través suyo diferentes sensaciones, ideas, pensamientos. Si no también como soporte a partir del cual el ser humano se puede comunicar con otros y también consigo mismo.
+    Otra razón de por qué la música es importante es que la misma es un fenómeno que permite conocer no sólo al individuo o grupo de individuos que la componen si no también al oyente o a las personas que la disfrutan.
+    tra razón de por qué la música es importante es que la misma es un fenómeno que permite conocer no sólo al individuo o grupo de individuos que la componen si no también al oyente o a las personas que la disfrutan.
+    El origen de la música es desconocido, ya que inicialmente no se utilizaban instrumentos musicales para interpretarla, sino la voz humana, o la percusión corporal, que no dejan huella en el registro arqueológico. Se puede inferir que la música se descubrió en un momento similar a la aparición del lenguaje. El cambio de altura musical en el lenguaje produce un canto, de manera que es probable que en los orígenes apareciera de esta manera.
+
+</main>
+
+<footer>
+
+  <img class="sound" src=https://concepto.de/wp-content/uploads/2020/03/musica-e1584123209397.jpg>
+  <p>Si la música es el arte de organizar el sonido con el fin de expresar algo, podemos afirmar que un instrumento musical es cualquier objeto que sea utilizado por el ser humano para producir sonidos en el marco de una creación musical. Es decir, potencialmente cualquier objeto podría ser un instrumento musical.
+    En la musica existen varios tipos instrumentos y cada uno de ellos estan divididos en instrumentos de cuerda, percusion y viento.</p>
+  <p class="piece">Instrumentos musicales de cuerda.</p>
+
+  Los instrumentos de cuerda o cordófonos son instrumentos musicales que producen sonido a través de la vibración de las cuerdas cuando el músico interactúa con estas de alguna forma.También son llamados instrumentos cordofonos; dentro de este grupo los más conocidos son la guitarra, el cuatro, el piano, el violín, el contrabajo, el arpa y el bajo, produciendo su sonido a través de una caja de resonancia conjuntamente con las vibraciones de las cuerdas entonadas; estas vibraciones dependiendo de cómo sean, van a producir sonidos diferentes. Los instrumentos de cuerda se utilizan con diferentes criterios para cada tipo de música; existen músicas que tienen instrumentos de cuerda percutidas o golpeadas, otras tienen cuerdas rozadas y otras cuerdas pulsadas.
+  <p class="cheese">Instrumentos musicales de viento.</p>
+
+  Son llamados instrumentos aerófonos, estos producen el sonido de acuerdo a la masa de aire en su interior y a la vibración del viento dad por el músico al momento de exhalar aire y expulsarlo por la lengüeta o boquilla de este instrumento.
+  <p class="hurts">Instrumentos musicales de percusión.</p>
+
+  Son los instrumentos que necesitan baquetas para ser tocados, golpean las baquetas contra el instrumento; este suele ser un instrumento de relleno, o para darle compas a una música. Existen instrumentos de percusión afinados como las campanas, xilófonos, celestas o timbales; y los no afinados como lo son las tamboras, matracas, maracas, furro, charrasca, cajas acústicas; en estos casos el músico profesional da el sonido perfecto a los instrumentos.
+
+  </p>
+
+  <img class="look" src=https://c8.alamy.com/comp/FFYTYC/music-music-group-band-young-people-making-music-1960s-additional-FFYTYC.jpg>
+  <p class="flower">En la musica existen varios generos, los cuales se destinguen uno del otro.Un género musical es una categoría que identifica piezas musicales como pertenecientes a una tradición compartida o conjunto de convenciones más o menos aceptadas por una amplia mayoría de expertos en música. En teoría, debemos distinguirla de la forma musical y el estilo musical, aunque en la práctica estos términos a veces se usan indistintamente.De acuerdo con la web Music Genre List, existen 41 géneros musicales indiscutibles y, dentro de esas categorías, 337 subcategorías de música.De acuerdo con la web Music Genre List, existen 41 géneros musicales indiscutibles y, dentro de esas categorías, 337 subcategorías de música.  </p>
+<a
+   href="https://www.musicgenreslist.com/">Music Genre List</a>
+
+ <img class="MJ"src=https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU2MzQwMzYzMzkxNDExNTAz/michael-jackson-88688373jpg.jpg>
+<p> Aqui tenemos una foto de Michael Jackson, uno de los cantantes mas conocidos del mundo. Que se destaco en el genero del pop.</p>
+<p> En este video podemos tener una introduccion a la historia de la musica.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DAotsp2ufr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</footer>
