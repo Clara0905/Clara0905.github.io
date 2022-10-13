@@ -1,0 +1,89 @@
+.joy{
+  font-size:50px;
+}
+.fun{
+  border: px solid black;
+  font-size:20px;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  letter-spacing:3px;
+  
+}
+
+.p1{
+  border: 5px solid turquoise;
+  margin: 0 auto;
+  position: relative;
+  top: 20px;
+  left: -30px;
+  font-size:30px;
+}
+.p2{
+  border:5px solid turquoise;
+  position:fixed;
+  margin-top:20px;
+  margin-left:150px;
+  font-size:30px;
+}
+.p3{
+  border:5px solid turquoise;
+  position:fixed;
+  margin-top:20px;
+  margin-left:300px;
+  font-size:30px;
+}
+.Links{
+  position: relative;
+  top: 20px;
+  left: 30px;
+ 
+ 
+}
+.Alvin{
+  position:fixed;
+  margin-top:0px;
+  margin-left:150px; 
+}
+.Simon{
+  position:fixed;
+  margin-top:0px;
+   margin-left:300px;
+}
+
+
+
+body{
+ background:lightpink;
+  padding: 90px 70px 800px 70px;
+  border:30px solid black;
+  margin: 0 50px 0 50px;
+}
+.sound{
+  display:block;
+  margin:60px 700px 80px 400px;
+  width:400px;
+}
+.look{
+  display:block;
+  margin:0 200px;
+  width:400px;
+}
+.MJ{
+  display:block;
+  margin:10px 0 70px 500px;
+  width:400px;
+}
+.piece{
+  font-size:30px;
+}
+.cheese{
+  font-size:30px;
+    
+  
+}
+.hurts{
+  font-size:30px;
+}
