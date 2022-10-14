@@ -37,20 +37,20 @@ p {
 }
 .Links{
   position: relative;
-  top: 20px;
+  top:20px;
   left: 30px;
  
  
 }
 .Alvin{
-  position:fixed;
-  margin-top:0px;
-  margin-left:150px; 
+  position:relative;
+  top:20px;
+  left:110px; 
 }
 .Simon{
-  position:fixed;
-  margin-top:0px;
-   margin-left:300px;
+  position:relative;
+  top:20px;
+  left:200px;
 }
 
 
@@ -87,3 +87,7 @@ body{
 .hurts{
   font-size:30px;
 }
+ 
+  
+
+
